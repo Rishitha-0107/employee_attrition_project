@@ -382,5 +382,6 @@ st.markdown(
     - Naive Bayes
     - PCA
     - K-Means Clustering
+    """
 
 )
