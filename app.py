@@ -105,7 +105,7 @@ model = joblib.load("random_forest.pkl")
 # =========================================================
 
 st.markdown(
-    '<div class="main-title">🚀 AI-Powered Employee Attrition Prediction System</div>',
+    '<div class="main-title">🚀 Employee Attrition Prediction System</div>',
     unsafe_allow_html=True
 )
 
@@ -383,12 +383,4 @@ st.markdown(
     - PCA
     - K-Means Clustering
 
-    ### ☁️ Deployment Stack
-
-    - Streamlit
-    - AWS S3
-    - SageMaker
-    - Lambda
-    - API Gateway
-    """
 )
